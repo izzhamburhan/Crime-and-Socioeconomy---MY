@@ -4,6 +4,8 @@
 
 This project analyzes crime patterns in Malaysia and their relationship with socioeconomic factors such as income, poverty, and employment. By combining crime data with economic and demographic information, we uncover insights about the social determinants of crime and identify potential intervention points.
 
+data from : https://www.kaggle.com/datasets/akma1xz/draft-dataset/data
+
 ## Key Findings
 
 ### 1. Crime Distribution by District
